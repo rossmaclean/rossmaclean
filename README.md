@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Please have a look around
 
 # About Me
-I'm a full stack engineer living in Glasgow, Scotland. In my free time I enjoy working on side projects, flying in X-Plane, and writing scripts to compare the performance of various programming languages and algorithm implementations.
+I'm a full stack engineer living in Glasgow, Scotland.
 
 ## Interesting Repositories
 - [setup](https://github.com/rossmaclean/setup)
